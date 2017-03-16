@@ -173,7 +173,7 @@ font-family: "tradegothiceighteen";
     position: absolute;
     left: 50%;
     top: 50%;
-    width: 80%;
+    width: 100%;
     height: auto;
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
@@ -205,7 +205,7 @@ font-family: "tradegothiceighteen";
 	width: 100%;
 }
 #section1 .contenedor {
-	width: 80%;
+	width: 100%;
 }
 .column {
 	float: left;
